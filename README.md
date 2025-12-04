@@ -9,7 +9,7 @@ This project is a comprehensive introduction to the Spring Framework and Spring 
 - Understanding the core concepts of Spring Framework
 - Introduction to the Inversion of Control (IoC) Container
 - Benefits of using IoC in application development
-
+[java](Week1Practice/src/main/java)
 ### 2. Setting Up a Spring Boot Project
 - Installing prerequisites (Java, Spring Boot, Maven/Gradle)
 - Creating a Spring Boot project from scratch

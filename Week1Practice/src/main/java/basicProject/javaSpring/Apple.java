@@ -8,17 +8,17 @@ import org.springframework.stereotype.Component;
 @Component
 public class Apple {
 
-    void eatApple(){
-        System.out.print("Eating apple ");
-    }
-    @PostConstruct
-    void beforeEat(){
-        System.out.println("Before Call the apple ");
-    }
-    @PreDestroy
-    void clean(){
-        System.out.println("Done Calling and stop Successfully");
-    }
+//    void eatApple(){
+//        System.out.print("Eating apple ");
+//    }
+//    @PostConstruct
+//    void beforeEat(){
+//        System.out.println("Before Call the apple ");
+//    }
+//    @PreDestroy
+//    void clean(){
+//        System.out.println("Done Calling and stop Successfully");
+//    }
 
 
 }

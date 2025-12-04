@@ -11,12 +11,12 @@ public class DbService {
     //instead we used Constructor Injection
     // dependencies are provide through class Constructor
 
-    private DbInterface db;
-   public DbService(DbInterface db){
-      this.db=db;
-   }
-
-    String getData(){
-        return db.getData();
-    }
+//    private DbInterface db;
+//   public DbService(DbInterface db){
+//      this.db=db;
+//   }
+//
+//    String getData(){
+//        return db.getData();
+//    }
 }
