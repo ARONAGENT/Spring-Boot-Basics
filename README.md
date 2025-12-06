@@ -5,7 +5,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](#license)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](#-license)
 
 
 *"Spring is to Java what rails is to Ruby - a way to make development faster, easier, and more enjoyable."*
