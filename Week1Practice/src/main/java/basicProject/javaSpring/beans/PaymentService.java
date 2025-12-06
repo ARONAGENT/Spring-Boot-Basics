@@ -12,14 +12,14 @@ public class PaymentService {
                 "Doing Payment...");
     }
 
-    @PostConstruct
-    public void postConstruct(){
-        System.out.println("payment is running....");
-    }
-
-    @PreDestroy
-    public void preDestroy(){
-        System.out.println("Destroy the Payment Bean");
-    }
+//    @PostConstruct
+//    public void postConstruct(){
+//        System.out.println("payment is running....");
+//    }
+//
+//    @PreDestroy
+//    public void preDestroy(){
+//        System.out.println("Destroy the Payment Bean");
+//    }
 
 }

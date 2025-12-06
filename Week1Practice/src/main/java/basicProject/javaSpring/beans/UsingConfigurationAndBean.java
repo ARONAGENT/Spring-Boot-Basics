@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Scope;
 public class UsingConfigurationAndBean {
 
     @Bean
-    @Scope("prototype")
+//    @Scope("prototype")
     PaymentService paymentService(){
         return new PaymentService();
     }
